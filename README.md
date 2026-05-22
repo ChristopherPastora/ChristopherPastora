@@ -12,7 +12,7 @@
 ### 🤖 QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherpastora)
-[![Email]([![https://mail.google.com/mail/u/0/#inbox](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com))
+[![Email]([![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@gmail.com))
 [![GitHub followers](https://img.shields.io/github/followers/ChristopherPastora?style=for-the-badge&logo=github)](https://github.com/ChristopherPastora)
 
 </div>
