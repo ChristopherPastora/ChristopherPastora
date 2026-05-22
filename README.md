@@ -103,11 +103,11 @@ class AIQualityEngineer:
 
 ##  Principios de Calidad
 
-- ✅ **Calidad es responsabilidad de todo el equipo**, no solo del QA
-- ✅ **Automatización estratégica** — automatizo lo que tiene valor, no todo
-- ✅ **Shift-left testing** — pruebas tempranas, bugs baratos
-- ✅ **Métricas que importan** — cobertura real, no cobertura cosmética
-- ✅ **AI no es magia** — también necesita tests rigurosos
+-  **Calidad es responsabilidad de todo el equipo**, no solo del QA
+-  **Automatización estratégica** — automatizo lo que tiene valor, no todo
+-  **Shift-left testing** — pruebas tempranas, bugs baratos
+-  **Métricas que importan** — cobertura real, no cobertura cosmética
+-  **AI no es magia** — también necesita tests rigurosos
 
 ---
 
