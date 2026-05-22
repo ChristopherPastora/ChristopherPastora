@@ -1,8 +1,20 @@
 <div align="center">
 
 ```
-# 👨‍💻 Christopher Pastora
-### QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
+<div align="center">
+
+<pre>
+ ██████╗  █████╗     ███████╗███╗   ██╗ ██████╗ 
+██╔═══██╗██╔══██╗    ██╔════╝████╗  ██║██╔════╝ 
+██║   ██║███████║    █████╗  ██╔██╗ ██║██║  ███╗
+██║▄▄ ██║██╔══██║    ██╔══╝  ██║╚██╗██║██║   ██║
+╚██████╔╝██║  ██║    ███████╗██║ ╚████║╚██████╔╝
+</pre>
+
+### 🤖 QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
+
+</div>
+
 ```
 
 ### 🤖 QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
