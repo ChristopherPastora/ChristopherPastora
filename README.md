@@ -84,10 +84,9 @@ class AIQualityEngineer:
 
 <div align="center">
 
-![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherPastora&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherPastora&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPastora&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPastora&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&count_private=true)
 </div>
 
 ---
