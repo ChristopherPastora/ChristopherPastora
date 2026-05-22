@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Soy **QA Engineer Senior** con especialización en testing de sistemas de Inteligencia Artificial y automatización de pruebas a escala. Me apasiona garantizar la confiabilidad de productos que combinan software tradicional con modelos de lenguaje (LLMs).
 
@@ -36,7 +36,7 @@ Trabajo en la intersección entre **calidad de software clásica** y los nuevos 
 
 ---
 
-## 🛠️ Stack Técnico
+##  Stack Técnico
 
 ### Testing & Automatización
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -59,7 +59,7 @@ Trabajo en la intersección entre **calidad de software clásica** y los nuevos 
 
 ---
 
-## 🤖 Especialización en AI QA
+##  Especialización en AI QA
 
 ```python
 class AIQualityEngineer:
@@ -80,7 +80,7 @@ class AIQualityEngineer:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -89,19 +89,19 @@ class AIQualityEngineer:
 
 ---
 
-## 🎯 Áreas de Enfoque
+##  Áreas de Enfoque
 
 | Área | Descripción |
 |------|-------------|
-| 🔍 **LLM Evaluation** | Frameworks de evaluación para modelos de lenguaje en producción |
-| 🤖 **Prompt Testing** | Regresión y versionado de prompts con métricas de calidad |
-| ⚡ **Test Automation** | Pipelines de prueba end-to-end con Selenium y Playwright |
-| 🚀 **CI/CD Quality Gates** | Integración de calidad en pipelines de despliegue |
-| 📈 **Quality Metrics** | Dashboards de cobertura, defect rate y test effectiveness |
+|  **LLM Evaluation** | Frameworks de evaluación para modelos de lenguaje en producción |
+|  **Prompt Testing** | Regresión y versionado de prompts con métricas de calidad |
+|  **Test Automation** | Pipelines de prueba end-to-end con Selenium y Playwright |
+|  **CI/CD Quality Gates** | Integración de calidad en pipelines de despliegue |
+|  **Quality Metrics** | Dashboards de cobertura, defect rate y test effectiveness |
 
 ---
 
-## 📌 Principios de Calidad
+##  Principios de Calidad
 
 - ✅ **Calidad es responsabilidad de todo el equipo**, no solo del QA
 - ✅ **Automatización estratégica** — automatizo lo que tiene valor, no todo
