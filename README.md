@@ -15,7 +15,7 @@
 
 </div>
 
-```
+
 
 ### 🤖 QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
 
