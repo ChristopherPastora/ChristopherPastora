@@ -1,4 +1,11 @@
+<div align="center">
 
+
+<div align="center">
+
+<pre>
+ ██████╗  █████╗     ███████╗███╗   ██╗ 
+</pre>
 
 ### 🤖 QA Engineer Senior · AI/LLM Testing · Automatización · CI/CD
 
